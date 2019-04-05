@@ -1,6 +1,7 @@
 package com.example.designpatten.prototype;
 
-import com.example.prototype.entity.Orders;
+
+import com.example.designpatten.prototype.entity.Orders;
 
 public class Prototype {
 
